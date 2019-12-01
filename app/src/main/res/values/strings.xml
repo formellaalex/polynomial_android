@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">polynomial</string>
+    <string name="button2_text">DOWNLOAD GRAPH</string>
+    <string name="textView5_text">Found roots:</string>
+    <string name="a_factor_title">A:</string>
+    <string name="b_factor_title">B:</string>
+    <string name="c_factor_title">C:</string>
+    <string name="button_text">Calculate</string>
+
+    <string name="intent_a_factor_param">a</string>
+    <string name="intent_b_factor_param">b</string>
+    <string name="intent_c_factor_param">c</string>
+    <string name="intent_roots_param">roots</string>
+</resources>
